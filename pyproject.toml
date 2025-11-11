@@ -1,0 +1,10 @@
+[project]
+name = "streamlit-app-speck-mol"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "st-speckmol>=0.0.6",
+    "streamlit>=1.51.0",
+]
